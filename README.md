@@ -11,7 +11,7 @@ To implement CRUD (Create, Read, Update, Delete) operations on a database using 
 * Student - Ankit
 * UID - 23BAI70287
 * section - 23AML7-A
-* Experiment - 6
+* Experiment - 10
 
 ---
 
